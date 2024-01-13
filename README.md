@@ -4,5 +4,5 @@
 2. Create a local repo
 3. Connect local repo with remote repo
 
-git remote add <repository name> <url-address of repository>
-
+Add remote repo to the projest:
+git remote add <repo name> <url-address of repo>
